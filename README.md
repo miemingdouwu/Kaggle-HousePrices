@@ -16,6 +16,7 @@ from scipy import stats  # 导入统计模块，包含多种统计函数
 
 # ⚠️ 警告提示
 import warnings  # 导入警告模块，用于控制警告信息显示
+
 warnings.filterwarnings('ignore')  # 忽略所有警告信息，保持输出整洁
 
 # 🎨 可视化风格
